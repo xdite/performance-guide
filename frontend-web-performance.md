@@ -91,6 +91,6 @@ expires_in 10.minutes
 
 至於一般 General 的 Front-end web performance scaling 我推薦的是：
 
-* High Performance Web Page
+* [High Performance Web Page](http://www.slideshare.net/stoyan/high-performance-web-pages-20-new-best-practices)
 * Steve Souders 的兩本書：[High Performance Web Sites](http://oreilly.com/catalog/9780596529307) 以及 [Even Faster Website](http://oreilly.com/catalog/9780596522308/)
 * Steve Souders 老人家的 [blog](http://www.stevesouders.com/blog/)
