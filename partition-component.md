@@ -25,8 +25,9 @@
 以 API 和 WebServices 的模式，降低不同系統介接的難度，提供一致性的存取介面，並且在這一層就可以把該做的 Cache 和Security 做上去。如果不做 SOA，很多系統根本想 Scale 都 Scale 不上去….
 
 ====
+
 坊間關於 SOA 的書籍和資料很多，因為 SOA 已經是一門獨立的學問了。這裡我舉 SOA for Rails 的部分就好，這個議題，我推薦閱讀：
 
-[Service Oriented Design With Ruby and Rails](http://www.informit.com/store/product.aspx?isbn=0321700104)
-[Enterprise Rails](http://oreilly.com/catalog/9780596515201)
-[Enterprise Recipes with Ruby and Rails](http://www.pragprog.com/titles/msenr/enterprise-recipes-with-ruby-and-rails)
+* [Service Oriented Design With Ruby and Rails](http://www.informit.com/store/product.aspx?isbn=0321700104)
+* [Enterprise Rails](http://oreilly.com/catalog/9780596515201)
+* [Enterprise Recipes with Ruby and Rails](http://www.pragprog.com/titles/msenr/enterprise-recipes-with-ruby-and-rails)
