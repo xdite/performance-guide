@@ -1,6 +1,6 @@
 大致上可規類幾個方向：
 
-1. Rails performance
+1. [[Rails performance]]
 2. Front-end web performance
 3. Caching & HTTP Reverse Proxy Caching
 4. Asynchrony Processing (Message queue)
