@@ -71,7 +71,7 @@ config.action_controller.asset_host = ‘http://asset%d.example.org"
 
 expires_in 10.minutes
 
-``` ruby
+```
 
 至於如果最前面的 web server 是 apache 的話，還有一招是在 public/stylesheets 和 public/javascripts 下放置一個有以下內容的 .htaccess 。
 
