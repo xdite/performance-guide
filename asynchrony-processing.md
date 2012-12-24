@@ -2,7 +2,7 @@
 
 想法是將需要耗費大量資源或耗費大量時間的 job 都丟到 backgroud 去非同步執行。比如：寄信、縮圖、轉影片等等….
 
-@ihower 在上次的 RubyTuesday 已經針對 Distributed Ruby and Rails 做了一次很好的 presentation。基本上看這份投影片就差不多了。
+基本上 看 @ihower 這份投影片就差不多了。
 
 <http://www.slideshare.net/ihower/distributed-ruby-and-rails>
 
