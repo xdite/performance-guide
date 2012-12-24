@@ -1,6 +1,5 @@
 # Caching & HTTP Reverse Proxy Caching
 
-
 不管是用什麼語言什麼架構做出來的網站，Scaling 很重要的一點的原則就是儘量 Cache Everything。讓每個 request 都去 hit db、用程式即時去產生頁面，對整體資源來說是相當昂貴的一件事。因此這兩個部分要儘量都用 Cache 做掉。
 
 Caching 可粗分為 DB Caching 和 Webpage Caching。
@@ -28,7 +27,6 @@ Webpage Caching 又分三種：
 * Page Caching（整頁）
 * Action Caching
 * Fragment Caching。
-
 
 ## Page Caching
 
